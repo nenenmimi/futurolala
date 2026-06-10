@@ -130,6 +130,11 @@
       "source": "/ybNlJXfYuR",
       "destination": "https://futurolala.vercel.app/khHmWkrORy",
       "permanent": true
+    },
+    {
+      "source": "/qwPTlBsuhY",
+      "destination": "https://futurolala.vercel.app/ybNlJXfYuR",
+      "permanent": true
     }
   ]
 }
